@@ -1,3 +1,3 @@
 # Snake game
 # First game by C#
-![qq](https://dochub.com/hieuvominh56/WZDLP8/imag0297)
+![](https://drive.google.com/drive/u/1/folders/1H3tCI0_lWrQ9yWpDR8HKXrlOfm4jAjI3/IMAG0297.jpg)
