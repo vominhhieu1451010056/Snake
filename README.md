@@ -2,4 +2,6 @@
 # First game by C#
 
 
-
+`ruby
+  puts "hello"
+`
